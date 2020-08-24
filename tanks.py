@@ -1,9 +1,6 @@
 import pygame
 import random
 
-#explosion_sound = pygame.mixer.Sound('explosion-01.wav')
-#pygame.mixer.music.load('explosion-01.wav')
-#pygame.mixer.music.play(-1)
 pygame.init()
 clock = pygame.time.Clock()
 white = (255,255,255)
